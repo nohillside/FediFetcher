@@ -1,0 +1,9 @@
+{
+  "server": "smnn.ch",
+  "home-timeline-length": 200,
+  "max-followings": 80,
+  "max-followers": 80,
+  "max-follow-requests": 80,
+  "from-lists": 1,
+  "from-notifications": 1
+}
